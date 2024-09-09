@@ -69,14 +69,14 @@
 + 유저정보 (USER_INFO_TB)
 이름|컬럼명|자료형|제약 조건|
 | --- | --- | --- | --- |
-아이디|	USER_ID	VARCHAR2|PK|
-비밀번호|USER_PWVARCHAR2|	
-생년월일|USER_ BIRTH|DATE|	
-닉네임|USER_NICK|VARCHAR2|	
-이메일|USER_EMAIL|VARCHAR2|	
-성별|USER_GENDER|VARCHAR2|	
-자기소개|USER_INTRODUTION|VARCHAR2|	
-프로필|USER_PROFILE|VARCHAR2|
+| 아이디 | USER_ID | VARCHAR2 | PK |
+| 비밀번호 | USER_PW | VARCHAR2 | |
+| 생년월일 | USER_ BIRTH | DATE | |	
+| 닉네임 | USER_NICK | VARCHAR2 | |	
+| 이메일 | USER_EMAIL | VARCHAR2 | |	
+| 성별 | USER_GENDER | VARCHAR2 | |	
+| 자기소개 | USER_INTRODUTION | VARCHAR2 | |	
+| 프로필 | USER_PROFILE | VARCHAR2 | |
 
 ```sql
 CREATE TABLE USER_INFO_TB(
