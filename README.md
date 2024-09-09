@@ -4,63 +4,63 @@
 # 2. 역할 분담
 ----------
 + 요구사항 영역별 정리
-  + 회원가입/ 로그인 / 아이디,비밀번호 찾기 : 양웅열
-  + 마이페이지기능(현재 자기 상태창(회원정보) 표시및 개인정보 수정, 회원탈퇴) : 김도영
-  + 친구페이지(친구 상태 확인, 친구 쪽지 발송, 친구 추가 알림 표시) : 양웅열
-  + 메인페이지(현재 올라와 있는 모임 표시) : 김도영
-  + 사이드바(회원 프로필 사진 표시, 현재 가입된 모임 표시, 모임 가입 알림 표시): 양웅열
-  + 모임 개설 페이지 : 양웅열
-  + 모임 상세 페이지 : 양웅열, 김동환
-  + 게시판(게시글 출력, 카테고리 별 게시글 출력, 카테고리 별 게시글 검색(제목, 작성자), 내가 쓴 글 조회) :김동환
-  + 게시글 쓰기 페이지: 김동환
-  + 게시글 상세 페이지(해당 게시글 상세페이지 출력, 게시글 삭제 기능, 수정 기능 ,댓글 창 출력, 댓글 작성, 자기가 쓴 글이면 삭제 및 수정 버튼 활성화): 김동환
-  + 카카오맵 : 김동환
+  + 회원가입/ 로그인 / 아이디,비밀번호 찾기
+  + 마이페이지기능(현재 자기 상태창(회원정보) 표시및 개인정보 수정, 회원탈퇴)
+  + 친구페이지(친구 상태 확인, 친구 쪽지 발송, 친구 추가 알림 표시)
+  + 메인페이지(현재 올라와 있는 모임 표시)
+  + 사이드바(회원 프로필 사진 표시, 현재 가입된 모임 표시, 모임 가입 알림 표시)
+  + 모임 개설 페이지
+  + 모임 상세 페이지
+  + 게시판(게시글 출력, 카테고리 별 게시글 출력, 카테고리 별 게시글 검색(제목, 작성자), 내가 쓴 글 조회)
+  + 게시글 쓰기 페이지
+  + 게시글 상세 페이지(해당 게시글 상세페이지 출력, 게시글 삭제 기능, 수정 기능 ,댓글 창 출력, 댓글 작성, 자기가 쓴 글이면 삭제 및 수정 버튼 활성화)
+  + 카카오맵
 + ERD 및 테이블/UI 구성
-  + 상세 기능 설계: 김동환, 양웅열, 김도영
-  + 테이블 제작 : 김동환, 양웅열
-  + ERD 제작: 김도영
-  + 피그마 제작: 김도영, 김동환, 양웅
+  + 상세 기능 설계
+  + 테이블 제작
+  + ERD 제작
+  + 피그마 제작
   + 쿼리 작성
     + controller
-      + FriendController: 양웅열
-      + LetterController: 양웅열
-      + LoginController: 양웅열
-      + MeetingController: 양웅영
-      + MyController: 양웅열
-      + NotBoController: 김동환
+      + FriendController
+      + LetterController
+      + LoginController
+      + MeetingController
+      + MyController
+      + NotBoController
     + dao
-      + FriendDAO: 양웅열
-      + LetterDAO: 양웅열
-      + LoginDAO: 양웅열
-      + MeetingDAO: 양웅열
-      + NotBoDao: 김동환
-      + MyDAO: 양웅열
+      + FriendDAO
+      + LetterDAO
+      + LoginDAO
+      + MeetingDAO
+      + NotBoDao
+      + MyDAO
     + utils
-      + Common : 양웅열
+      + Common 
     + vo
-       + chatVo: 양웅열
-       + CommentVO: 양웅열
-       + LetterVO: 양웅열
-       + FriendVO: 양웅열
-       + MeetingMemberVO: 양웅열
-       + MeetingVO: 양웅열
-       + NotBoVo: 김동환
-       + ScheduleVO: 양웅열
-       + UserInfoVO: 양웅열
+       + chatVo
+       + CommentVO
+       + LetterVO
+       + FriendVO
+       + MeetingMemberVO
+       + MeetingVO
+       + NotBoVo
+       + ScheduleVO
+       + UserInfoVO
 + 프론트엔드
-    + 로그인 페이지: 양웅열
-    + 메인페이지 : 양웅열
-    + 모임 상세페이지: 양웅열, 김동환
-    + 친구 창: 양웅열
-    + 쪽지 페이지: 양웅열
-    + 게시판: 김동환
-    + 상세 게시판: 김동환
-    + 글쓰기: 김동환
-    + 네비 바: 양웅열
-    + 반응형 쿼리: 김동환
+    + 로그인 페이지
+    + 메인페이지
+    + 모임 상세페이지
+    + 친구 창
+    + 쪽지 페이지
+    + 게시판
+    + 상세 게시판
+    + 글쓰기
+    + 네비 바
+    + 반응형 쿼리
 + PPT 협업
   https://www.canva.com/design/DAGGm-QEqYo/NzWNEgjP6CiYXJpcSQ-zLg/edit?utm_content=DAGGm-QEqYo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-  + PPT 제작: 김동환
+  + PPT 제작
 # 3. DB테이블 구성
 ![스크린샷 2024-09-09 115405](https://github.com/user-attachments/assets/255767da-3951-47c9-ba73-3b799455c19f)
 + 스토리 보드
