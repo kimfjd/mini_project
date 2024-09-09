@@ -291,6 +291,6 @@ https://docs.google.com/spreadsheets/d/1Fkr2t1Z2e-jvBHXsHzg7cwaRmYuG7w661nOFxeGN
 ## GitHub url
 
 ## Team
-|<img src="0" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/161570977?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/161570923?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/161570931?v=4" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/u/161570977?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/161570923?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/161570931?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|
 |kimfjd<br/>[@kimfjd](https://github.com/kimfjd)|ungyeolyang<br/>[@ungyeolyang](https://github.com/ungyeolyang)|KimDoyoung<br/>[@KimDoyoung](https://github.com/KDoZero)|
