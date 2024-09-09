@@ -281,12 +281,12 @@ CREATE SEQUENCE SCHEDULE_SEQ
  MAXVALUE 9999    
  NOCYCLE;
 ```
-# 9. 프로젝트 진행
+# 4. 프로젝트 진행
 
 https://docs.google.com/spreadsheets/d/1Fkr2t1Z2e-jvBHXsHzg7cwaRmYuG7w661nOFxeGN4Ss/edit?gid=0#gid=0
 
 
-# 10. 참고자료
+# 5. 참고자료
 
 ## GitHub url
 
@@ -294,3 +294,23 @@ https://docs.google.com/spreadsheets/d/1Fkr2t1Z2e-jvBHXsHzg7cwaRmYuG7w661nOFxeGN
 |<img src="https://avatars.githubusercontent.com/u/161570977?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/161570923?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/161570931?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|
 |kimfjd<br/>[@kimfjd](https://github.com/kimfjd)|ungyeolyang<br/>[@ungyeolyang](https://github.com/ungyeolyang)|KimDoyoung<br/>[@KimDoyoung](https://github.com/KDoZero)|
+
+## Git Bash 참고 사이트
+
+https://shortcuts.tistory.com/8
+
+## ERD 참고 사이트
+
+https://www.erdcloud.com/
+
+# 6. 개발환경
+
+
+
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/react-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+
+
