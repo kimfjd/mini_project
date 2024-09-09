@@ -67,6 +67,8 @@
 ![스크린샷 2024-09-09 115535](https://github.com/user-attachments/assets/b8004977-f445-4b51-a874-1d647e300529)
 
 + 유저정보 (USER_INFO_TB)
+
+## 1. **유저정보 (USER_INFO_TB)**
 이름|컬럼명|자료형|제약 조건|
 | --- | --- | --- | --- |
 | 아이디 | USER_ID | VARCHAR2 | PK |
