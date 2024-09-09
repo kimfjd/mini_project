@@ -61,7 +61,7 @@
 + PPT 협업
   https://www.canva.com/design/DAGGm-QEqYo/NzWNEgjP6CiYXJpcSQ-zLg/edit?utm_content=DAGGm-QEqYo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   + PPT 제작: 김동환
-# DB테이블 구성
+# 3. DB테이블 구성
 ![스크린샷 2024-09-09 115405](https://github.com/user-attachments/assets/255767da-3951-47c9-ba73-3b799455c19f)
 + 스토리 보
 ![스크린샷 2024-09-09 115535](https://github.com/user-attachments/assets/b8004977-f445-4b51-a874-1d647e300529)
@@ -281,3 +281,4 @@ CREATE SEQUENCE SCHEDULE_SEQ
  MAXVALUE 9999    
  NOCYCLE;
 ```
+# 4. 프로젝트 진행
